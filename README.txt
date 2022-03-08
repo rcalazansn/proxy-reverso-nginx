@@ -1,6 +1,11 @@
 Arquivo Hosts
 	C:\Windows\System32\drivers\etc\hosts
 
+adicionar entradas:
+	127.0.0.1 blue.labs.com.br
+	127.0.0.1 green.labs.com.br
+	127.0.0.1 labs.com.br
+
 http://labs.com.br
 
 http://labs.com.br/blue
